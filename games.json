@@ -1,0 +1,1439 @@
+{
+    "ingles": {
+        "nombre": "Inglés",
+        "temas": {
+            "conditionalsScramble": {
+                "nombre": "Ordenar Condicionales",
+                "juego": "sentenceScramble",
+                "preguntas": [
+                    { "texto": "if you study you will pass the exam", "solucion": "if you study you will pass the exam" },
+                    { "texto": "i would travel if i had more money", "solucion": "i would travel if i had more money" },
+                    { "texto": "she will be happy if he calls her", "solucion": "she will be happy if he calls her" },
+                    { "texto": "if i were you i would not do that", "solucion": "if i were you i would not do that" },
+                    { "texto": "they would have won if they had played better", "solucion": "they would have won if they had played better" },
+                    { "texto": "if it rains we will stay at home", "solucion": "if it rains we will stay at home" },
+                    { "texto": "he would buy a car if he could drive", "solucion": "he would buy a car if he could drive" },
+                    { "texto": "if you mix red and blue you get purple", "solucion": "if you mix red and blue you get purple" },
+                    { "texto": "what would you do if you won the lottery", "solucion": "what would you do if you won the lottery" },
+                    { "texto": "if i had known i would have helped you", "solucion": "if i had known i would have helped you" }
+                ]
+            },
+            "presentSimpleAffirmative": {
+                "nombre": "Presente Simple: Afirmativo",
+                "juego": "sentenceScramble",
+                "preguntas": [
+                    { "texto": "she works in an office", "solucion": "she works in an office" },
+                    { "texto": "they play soccer on weekends", "solucion": "they play soccer on weekends" },
+                    { "texto": "he reads a book every night", "solucion": "he reads a book every night" },
+                    { "texto": "the sun rises in the east", "solucion": "the sun rises in the east" },
+                    { "texto": "we learn english at school", "solucion": "we learn english at school" },
+                    { "texto": "i drink coffee in the morning", "solucion": "i drink coffee in the morning" },
+                    { "texto": "you speak spanish very well", "solucion": "you speak spanish very well" },
+                    { "texto": "the train arrives at ten o'clock", "solucion": "the train arrives at ten o'clock" },
+                    { "texto": "cats like to sleep a lot", "solucion": "cats like to sleep a lot" },
+                    { "texto": "he enjoys listening to music", "solucion": "he enjoys listening to music" }
+                ]
+            },
+            "presentSimpleNegative": {
+                "nombre": "Presente Simple: Negativo",
+                "juego": "sentenceScramble",
+                "preguntas": [
+                    { "texto": "i do not like vegetables", "solucion": "i do not like vegetables" },
+                    { "texto": "he does not live in this city", "solucion": "he does not live in this city" },
+                    { "texto": "we do not go to the cinema often", "solucion": "we do not go to the cinema often" },
+                    { "texto": "she does not work on sundays", "solucion": "she does not work on sundays" },
+                    { "texto": "they do not have any pets", "solucion": "they do not have any pets" },
+                    { "texto": "it does not rain much in summer", "solucion": "it does not rain much in summer" },
+                    { "texto": "you do not need a ticket", "solucion": "you do not need a ticket" },
+                    { "texto": "he does not play the guitar", "solucion": "he does not play the guitar" },
+                    { "texto": "i do not understand the question", "solucion": "i do not understand the question" },
+                    { "texto": "they do not sell flowers here", "solucion": "they do not sell flowers here" }
+                ]
+            },
+            "presentSimpleError": {
+                "nombre": "Presente Simple: Errores",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "He work in a large company.", "error": "work", "solucion": "works" },
+                    { "texto": "They doesn't like early mornings.", "error": "doesn't", "solucion": "don't" },
+                    { "texto": "Do she have any pets?", "error": "Do", "solucion": "Does" },
+                    { "texto": "I likes to listen to music.", "error": "likes", "solucion": "like" },
+                    { "texto": "You speaks English very well.", "error": "speaks", "solucion": "speak" },
+                    { "texto": "She don't want to go.", "error": "don't", "solucion": "doesn't" },
+                    { "texto": "He watchs TV in the evening.", "error": "watchs", "solucion": "watches" },
+                    { "texto": "We goes to the park on Saturdays.", "error": "goes", "solucion": "go" },
+                    { "texto": "Does they live here?", "error": "Does", "solucion": "Do" },
+                    { "texto": "The cat play with the ball.", "error": "play", "solucion": "plays" }
+                ]
+            },
+            "presentSimpleQuiz": {
+                "nombre": "Presente Simple: Quiz",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "He ___ coffee every morning.", "opciones": ["drink", "is drinking", "drank"], "solucion": "drinks" },
+                    { "texto": "We ___ to the gym on Fridays.", "opciones": ["goes", "are going", "went"], "solucion": "go" },
+                    { "texto": "The sun ___ in the east.", "opciones": ["rise", "is rising", "rose"], "solucion": "rises" },
+                    { "texto": "My sister ___ the piano very well.", "opciones": ["play", "is playing", "played"], "solucion": "plays" },
+                    { "texto": "I ___ understand this exercise.", "opciones": ["doesn't", "am not", "isn't"], "solucion": "don't" },
+                    { "texto": "___ you like ice cream?", "opciones": ["Are", "Is", "Have"], "solucion": "Do" },
+                    { "texto": "She ___ her homework after school.", "opciones": ["do", "is doing", "did"], "solucion": "does" },
+                    { "texto": "They ___ in a small apartment.", "opciones": ["lives", "are living", "lived"], "solucion": "live" },
+                    { "texto": "The Earth ___ around the Sun.", "opciones": ["go", "is going", "gone"], "solucion": "goes" },
+                    { "texto": "He ___ to bed early.", "opciones": ["go", "is going", "went"], "solucion": "goes" }
+                ]
+            },
+            "phrasalVerbsPairs": {
+                "nombre": "Unir Phrasal Verbs",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "Look up", "es": "Buscar información" },
+                        { "en": "Give up", "es": "Rendirse" },
+                        { "en": "Take off", "es": "Despegar / Quitarse ropa" },
+                        { "en": "Turn down", "es": "Rechazar / Bajar volumen" },
+                        { "en": "Bring up", "es": "Mencionar un tema / Criar" },
+                        { "en": "Come across", "es": "Encontrar por casualidad" },
+                        { "en": "Go on", "es": "Continuar" },
+                        { "en": "Hold on", "es": "Esperar" },
+                        { "en": "Work out", "es": "Hacer ejercicio / Resolver" },
+                        { "en": "Put off", "es": "Posponer" }
+                    ]
+                ]
+            },
+            "presentSimplePairs": {
+                "nombre": "Presente Simple: Unir Sujetos",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "I / You / We / They", "es": "work" },
+                        { "en": "He / She / It", "es": "works" },
+                        { "en": "I / You / We / They", "es": "don't" },
+                        { "en": "He / She / It", "es": "doesn't" }
+                    ]
+                ]
+            },
+            "vocabularyMemory": {
+                "nombre": "Memoria de Vocabulario",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "Dog", "es": "Perro" },
+                    { "en": "Cat", "es": "Gato" },
+                    { "en": "Sun", "es": "Sol" },
+                    { "en": "Moon", "es": "Luna" },
+                    { "en": "Tree", "es": "Árbol" },
+                    { "en": "Flower", "es": "Flor" },
+                    { "en": "Mountain", "es": "Montaña" }
+                ]
+            },
+            "passiveVoiceError": {
+                "nombre": "Errores en Voz Pasiva",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "The book was wrote by a famous author.", "error": "wrote", "solucion": "written" },
+                    { "texto": "The cake is been made by my mother.", "error": "been", "solucion": "being" },
+                    { "texto": "The letters were send yesterday.", "error": "send", "solucion": "sent" },
+                    { "texto": "English is speak all over the world.", "error": "speak", "solucion": "spoken" },
+                    { "texto": "The movie will be direct by a new director.", "error": "direct", "solucion": "directed" },
+                    { "texto": "The house was build in 1990.", "error": "build", "solucion": "built" },
+                    { "texto": "The songs are sang by a choir.", "error": "sang", "solucion": "sung" },
+                    { "texto": "The car has been fix by the mechanic.", "error": "fix", "solucion": "fixed" },
+                    { "texto": "The problem must be solve immediately.", "error": "solve", "solucion": "solved" },
+                    { "texto": "The windows were broke by the storm.", "error": "broke", "solucion": "broken" }
+                ]
+            },
+            "tensesQuiz": {
+                "nombre": "Quiz de Tiempos Verbales",
+                "juego": "quiz",
+                "preguntas": [
+                    {
+                        "texto": "If I ___ you, I would study more.",
+                        "opciones": ["am", "was", "were", "be"],
+                        "solucion": "were"
+                    },
+                    {
+                        "texto": "She ___ to Paris last year.",
+                        "opciones": ["go", "goes", "has gone", "went"],
+                        "solucion": "went"
+                    },
+                    {
+                        "texto": "By the time we arrived, the movie ___.",
+                        "opciones": ["started", "had started", "has started", "was starting"],
+                        "solucion": "had started"
+                    },
+                    {
+                        "texto": "I think it ___ tomorrow.",
+                        "opciones": ["will rain", "rains", "is raining", "rained"],
+                        "solucion": "will rain"
+                    },
+                    {
+                        "texto": "While I was reading, the phone ___.",
+                        "opciones": ["rings", "rang", "was ringing", "has rung"],
+                        "solucion": "rang"
+                    },
+                    {
+                        "texto": "He ___ here since 2020.",
+                        "opciones": ["works", "is working", "has worked", "worked"],
+                        "solucion": "has worked"
+                    },
+                    {
+                        "texto": "The novel 'Don Quixote' ___ by Cervantes.",
+                        "opciones": ["wrote", "is written", "writes"],
+                        "solucion": "was written"
+                    },
+                    {
+                        "texto": "They promised they ___ help us.",
+                        "opciones": ["will", "would", "can", "should"],
+                        "solucion": "would"
+                    },
+                    {
+                        "texto": "Look at those clouds! It ___.",
+                        "opciones": ["will rain", "is going to rain", "rains", "rained"],
+                        "solucion": "is going to rain"
+                    },
+                    {
+                        "texto": "I wish I ___ speak French.",
+                        "opciones": ["can", "could", "will", "would"],
+                        "solucion": "could"
+                    }
+                ]
+            },
+            "conditionalsDrag": {
+                "nombre": "Arrastrar Condicionales",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "If you heat ice,", "droppable": "it melts." },
+                    { "draggable": "If I have time,", "droppable": "I will call you." },
+                    { "draggable": "If I won the lottery,", "droppable": "I would buy a house." },
+                    { "draggable": "If I had studied,", "droppable": "I would have passed." },
+                    { "draggable": "She will miss the bus", "droppable": "if she doesn't hurry." },
+                    { "draggable": "He would be healthier", "droppable": "if he ate less sugar." },
+                    { "draggable": "I wouldn't have been late", "droppable": "if the alarm had rung." },
+                    { "draggable": "When the sun goes down,", "droppable": "it gets dark." },
+                    { "draggable": "If you were a superhero,", "droppable": "what would your power be?" },
+                    { "draggable": "If they had invited me,", "droppable": "I would have gone to the party." }
+                ]
+            }
+            ,
+            "presentSimpleDrag": {
+                "nombre": "Presente Simple: Arrastrar",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "He", "droppable": "plays tennis." },
+                    { "draggable": "They", "droppable": "live in New York." },
+                    { "draggable": "She doesn't", "droppable": "eat meat." },
+                    { "draggable": "I", "droppable": "read a lot of books." },
+                    { "draggable": "We don't", "droppable": "watch TV." },
+                    { "draggable": "The cat", "droppable": "sleeps on the sofa." },
+                    { "draggable": "You", "droppable": "speak English." },
+                    { "draggable": "It", "droppable": "rains in winter." },
+                    { "draggable": "My parents", "droppable": "work in a hospital." },
+                    { "draggable": "He doesn't", "droppable": "like spiders." }
+                ]
+            },
+            "presentSimpleWhQuestions": {
+                "nombre": "Presente Simple: Preguntas 'Wh'",
+                "juego": "sentenceScramble",
+                "preguntas": [
+                    { "texto": "where do you live", "solucion": "where do you live" },
+                    { "texto": "what does he do", "solucion": "what does he do" },
+                    { "texto": "when does the class start", "solucion": "when does the class start" }
+                ]
+            }
+            ,
+            "rouletteAntonyms": {
+                "nombre": "Ruleta de Antónimos",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "The antonym of 'happy' is...", "solucion": { "valor": "sad", "explicacion": "'Sad' is the direct opposite of 'happy'." }, "opcionesFalsas": [{ "valor": "joyful", "explicacion": "'Joyful' is a synonym for 'happy'." }, { "valor": "angry", "explicacion": "'Angry' is a different emotion, not the direct opposite." }, { "valor": "fast", "explicacion": "'Fast' describes speed." }] },
+                    { "texto": "The antonym of 'big' is...", "solucion": { "valor": "small", "explicacion": "'Small' is the opposite of 'big'." }, "opcionesFalsas": [{ "valor": "large", "explicacion": "'Large' is a synonym for 'big'." }, { "valor": "heavy", "explicacion": "'Heavy' describes weight." }, { "valor": "tall", "explicacion": "'Tall' describes height." }] },
+                    { "texto": "The antonym of 'hot' is...", "solucion": { "valor": "cold", "explicacion": "'Cold' is the opposite of 'hot'." }, "opcionesFalsas": [{ "valor": "warm", "explicacion": "'Warm' is similar to 'hot'." }, { "valor": "spicy", "explicacion": "'Spicy' describes taste." }, { "valor": "dark", "explicacion": "'Dark' is the opposite of 'light'." }] },
+                    { "texto": "The antonym of 'fast' is...", "solucion": { "valor": "slow", "explicacion": "'Slow' is the opposite of 'fast'." }, "opcionesFalsas": [{ "valor": "quick", "explicacion": "'Quick' is a synonym for 'fast'." }, { "valor": "strong", "explicacion": "'Strong' describes strength." }, { "valor": "quiet", "explicacion": "'Quiet' is the opposite of 'loud'." }] },
+                    { "texto": "The antonym of 'empty' is...", "solucion": { "valor": "full", "explicacion": "'Full' is the opposite of 'empty'." }, "opcionesFalsas": [{ "valor": "vacant", "explicacion": "'Vacant' is a synonym." }, { "valor": "open", "explicacion": "'Open' is the opposite of 'closed'." }, { "valor": "light", "explicacion": "'Light' is the opposite of 'heavy' or 'dark'." }] },
+                    { "texto": "The antonym of 'rich' is...", "solucion": { "valor": "poor", "explicacion": "'Poor' is the opposite of 'rich'." }, "opcionesFalsas": [{ "valor": "wealthy", "explicacion": "'Wealthy' is a synonym." }, { "valor": "expensive", "explicacion": "'Expensive' is the opposite of 'cheap'." }, { "valor": "happy", "explicacion": "'Happy' is an emotion." }] },
+                    { "texto": "The antonym of 'difficult' is...", "solucion": { "valor": "easy", "explicacion": "'Easy' is the opposite of 'difficult'." }, "opcionesFalsas": [{ "valor": "hard", "explicacion": "'Hard' is a synonym." }, { "valor": "simple", "explicacion": "'Simple' is a synonym for 'easy'." }, { "valor": "long", "explicacion": "'Long' is the opposite of 'short'." }] },
+                    { "texto": "The antonym of 'strong' is...", "solucion": { "valor": "weak", "explicacion": "'Weak' is the opposite of 'strong'." }, "opcionesFalsas": [{ "valor": "powerful", "explicacion": "'Powerful' is a synonym." }, { "valor": "heavy", "explicacion": "'Heavy' describes weight." }, { "valor": "small", "explicacion": "'Small' describes size." }] },
+                    { "texto": "The antonym of 'old' is...", "solucion": { "valor": "new", "explicacion": "'New' or 'young' are opposites of 'old'." }, "opcionesFalsas": [{ "valor": "ancient", "explicacion": "'Ancient' is a synonym." }, { "valor": "big", "explicacion": "'Big' describes size." }, { "valor": "fast", "explicacion": "'Fast' describes speed." }] },
+                    { "texto": "The antonym of 'beautiful' is...", "solucion": { "valor": "ugly", "explicacion": "'Ugly' is the opposite of 'beautiful'." }, "opcionesFalsas": [{ "valor": "pretty", "explicacion": "'Pretty' is a synonym." }, { "valor": "nice", "explicacion": "'Nice' is a general positive adjective." }, { "valor": "dark", "explicacion": "'Dark' is the opposite of 'light'." }] }
+                ]
+            }
+            ,
+            "presentSimpleRoulette": {
+                "nombre": "Presente Simple: Ruleta",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "Para 'He/She/It', el verbo...", "solucion": { "valor": "lleva '-s' o '-es'", "explicacion": "Correcto, es la regla para la tercera persona del singular." }, "opcionesFalsas": [{ "valor": "no cambia", "explicacion": "Incorrecto, el verbo sí cambia." }, { "valor": "lleva 'don't'", "explicacion": "Incorrecto, se usa 'doesn't'." }] },
+                    { "texto": "Para negar con 'I/You/We/They', se usa...", "solucion": { "valor": "don't", "explicacion": "Correcto, 'don't' es el auxiliar para estos pronombres." }, "opcionesFalsas": [{ "valor": "doesn't", "explicacion": "Incorrecto, 'doesn't' se usa para 'He/She/It'." }, { "valor": "isn't", "explicacion": "Incorrecto, 'isn't' es del verbo 'to be'." }] },
+                    { "texto": "Para preguntar con 'She', se usa...", "solucion": { "valor": "Does", "explicacion": "Correcto, 'Does' es el auxiliar para 'He/She/It'." }, "opcionesFalsas": [{ "valor": "Do", "explicacion": "Incorrecto, 'Do' se usa para 'I/You/We/They'." }, { "valor": "Is", "explicacion": "Incorrecto, 'Is' es del verbo 'to be'." }] },
+                    { "texto": "En preguntas con 'Does', el verbo principal...", "solucion": { "valor": "no lleva '-s'", "explicacion": "Correcto, el verbo va en su forma base (ej: Does he work?)." }, "opcionesFalsas": [{ "valor": "lleva '-s'", "explicacion": "Incorrecto, el auxiliar 'Does' ya marca la tercera persona." }, { "valor": "lleva '-ing'", "explicacion": "Incorrecto, '-ing' es para tiempos continuos." }] },
+                    { "texto": "Usamos el Presente Simple para...", "solucion": { "valor": "hábitos y rutinas", "explicacion": "Correcto, se usa para acciones habituales." }, "opcionesFalsas": [{ "valor": "acciones en progreso", "explicacion": "Incorrecto, para eso se usa el Presente Continuo." }, { "valor": "acciones pasadas", "explicacion": "Incorrecto, para eso se usan los tiempos pasados." }] },
+                    { "texto": "La palabra 'always' es un adverbio de...", "solucion": { "valor": "frecuencia", "explicacion": "Correcto, indica qué tan seguido ocurre una acción." }, "opcionesFalsas": [{ "valor": "modo", "explicacion": "Incorrecto, los adverbios de modo describen cómo se hace algo." }, { "valor": "lugar", "explicacion": "Incorrecto, los de lugar indican dónde." }] },
+                    { "texto": "La forma negativa de 'He works' es...", "solucion": { "valor": "He doesn't work", "explicacion": "Correcto, se usa el auxiliar 'doesn't' + verbo base." }, "opcionesFalsas": [{ "valor": "He no work", "explicacion": "Incorrecto, 'no' no se usa así para negar verbos." }, { "valor": "He doesn't works", "explicacion": "Incorrecto, el verbo debe ir en su forma base." }] },
+                    { "texto": "La pregunta para 'They live in Spain' es...", "solucion": { "valor": "Where do they live?", "explicacion": "Correcto, esta es una pregunta 'Wh' bien formada." }, "opcionesFalsas": [{ "valor": "Where they live?", "explicacion": "Incorrecto, falta el auxiliar 'do'." }, { "valor": "Do they live?", "explicacion": "Incorrecto, esta es una pregunta de sí/no." }] },
+                    { "texto": "El verbo 'to be' en presente para 'I' es...", "solucion": { "valor": "am", "explicacion": "Correcto, la conjugación es 'I am'." }, "opcionesFalsas": [{ "valor": "is", "explicacion": "Incorrecto, 'is' es para 'He/She/It'." }, { "valor": "are", "explicacion": "Incorrecto, 'are' es para 'You/We/They'." }] },
+                    { "texto": "El verbo 'have' para 'she' es...", "solucion": { "valor": "has", "explicacion": "Correcto, la forma para la tercera persona es 'has'." }, "opcionesFalsas": [{ "valor": "have", "explicacion": "Incorrecto, 'have' es para los otros pronombres." }, { "valor": "haves", "explicacion": "Incorrecto, esta forma no existe." }] }
+                ]
+            }
+            ,
+            "presentSimpleQuestions": {
+                "nombre": "Presente Simple: Preguntas",
+                "juego": "sentenceScramble",
+                "preguntas": [
+                    { "texto": "do you speak english", "solucion": "do you speak english" },
+                    { "texto": "does he play football", "solucion": "does he play football" },
+                    { "texto": "do they live in this house", "solucion": "do they live in this house" },
+                    { "texto": "does she like to read books", "solucion": "does she like to read books" },
+                    { "texto": "do we have a meeting today", "solucion": "do we have a meeting today" },
+                    { "texto": "does it work properly", "solucion": "does it work properly" },
+                    { "texto": "do i need to sign here", "solucion": "do i need to sign here" },
+                    { "texto": "does your father cook dinner", "solucion": "does your father cook dinner" },
+                    { "texto": "do the shops close early", "solucion": "do the shops close early" },
+                    { "texto": "does the bus stop here", "solucion": "does the bus stop here" }
+                ]
+            }
+            ,
+            "presentSimpleHangman": {
+                "nombre": "Ahorcado: Verbos Clave",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "WORKS", "pista": "Verbo para 'He/She/It' en afirmativo (ej: He ___ hard)." },
+                    { "palabra": "PLAY", "pista": "Verbo para 'I/You/We/They' en afirmativo (ej: They ___ soccer)." },
+                    { "palabra": "DOESNT", "pista": "Auxiliar negativo para 'He/She/It'." },
+                    { "palabra": "DONT", "pista": "Auxiliar negativo para 'I/You/We/They'." },
+                    { "palabra": "DOES", "pista": "Auxiliar interrogativo para 'He/She/It'." },
+                    { "palabra": "STUDIES", "pista": "Verbo 'study' para 'She' en afirmativo." }
+                ]
+            },
+            "presentSimpleFill": {
+                "nombre": "Completar Presente Simple",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "She _____ (work) in an office.", "solucion": "WORKS" },
+                    { "texto": "They ____ (not like) vegetables.", "solucion": "DONT" },
+                    { "texto": "____ he play the guitar? (Do/Does)", "solucion": "DOES" },
+                    { "texto": "I _____ (read) a book every night.", "solucion": "READ" },
+                    { "texto": "He ______ (not live) in this city.", "solucion": "DOESNT" },
+                    { "texto": "____ you speak English? (Do/Does)", "solucion": "DO" },
+                    { "texto": "The cat ______ (sleep) on the sofa.", "solucion": "SLEEPS" },
+                    { "texto": "We ____ (not go) to the cinema often.", "solucion": "DONT" },
+                    { "texto": "It _____ (rain) a lot in winter.", "solucion": "RAINS" },
+                    { "texto": "My parents ____ (not work) on weekends.", "solucion": "DONT" }
+                ]
+            },
+            "verbToBeQuiz": {
+                "nombre": "Verbo To Be: Quiz",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "I ___ a student.", "opciones": ["is", "are", "be"], "solucion": "am" },
+                    { "texto": "She ___ from Spain.", "opciones": ["am", "are", "be"], "solucion": "is" },
+                    { "texto": "They ___ happy.", "opciones": ["is", "am", "be"], "solucion": "are" },
+                    { "texto": "___ you tired?", "opciones": ["Is", "Am", "Be"], "solucion": "Are" },
+                    { "texto": "He ___ not here.", "opciones": ["am", "are", "be"], "solucion": "is" },
+                    { "texto": "We ___ friends.", "opciones": ["is", "am", "be"], "solucion": "are" },
+                    { "texto": "It ___ a sunny day.", "opciones": ["am", "are", "be"], "solucion": "is" },
+                    { "texto": "What ___ your name?", "opciones": ["am", "are", "be"], "solucion": "is" },
+                    { "texto": "I ___ not a doctor.", "opciones": ["is", "are", "be"], "solucion": "am" },
+                    { "texto": "Where ___ they from?", "opciones": ["is", "am", "be"], "solucion": "are" }
+                ]
+            },
+            "verbToBeScramble": {
+                "nombre": "Verbo To Be: Oraciones",
+                "juego": "sentenceScramble",
+                "preguntas": [
+                    { "texto": "i am a teacher", "solucion": "i am a teacher" },
+                    { "texto": "you are my best friend", "solucion": "you are my best friend" },
+                    { "texto": "he is a good person", "solucion": "he is a good person" },
+                    { "texto": "she is not at home", "solucion": "she is not at home" },
+                    { "texto": "it is a beautiful day", "solucion": "it is a beautiful day" },
+                    { "texto": "we are from colombia", "solucion": "we are from colombia" },
+                    { "texto": "they are not ready", "solucion": "they are not ready" },
+                    { "texto": "are you okay", "solucion": "are you okay" },
+                    { "texto": "is she your sister", "solucion": "is she your sister" },
+                    { "texto": "i am not tired", "solucion": "i am not tired" }
+                ]
+            },
+            "verbToBeError": {
+                "nombre": "Verbo To Be: Errores",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "I is happy.", "error": "is", "solucion": "am" },
+                    { "texto": "You is my friend.", "error": "is", "solucion": "are" },
+                    { "texto": "He are a doctor.", "error": "are", "solucion": "is" },
+                    { "texto": "She am sad.", "error": "am", "solucion": "is" },
+                    { "texto": "We is students.", "error": "is", "solucion": "are" },
+                    { "texto": "They am at home.", "error": "am", "solucion": "are" },
+                    { "texto": "It are a cat.", "error": "are", "solucion": "is" },
+                    { "texto": "Am he your brother?", "error": "Am", "solucion": "Is" },
+                    { "texto": "Is we late?", "error": "Is", "solucion": "Are" },
+                    { "texto": "Are I correct?", "error": "Are", "solucion": "Am" }
+                ]
+            },
+            "pronounsPairs": {
+                "nombre": "Unir Pronombres y Verbos",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "I", "es": "am / work" },
+                        { "en": "You", "es": "are / work" },
+                        { "en": "He / She / It", "es": "is / works" },
+                        { "en": "We", "es": "are / work" },
+                        { "en": "They", "es": "are / work" },
+                        { "en": "1st Person Singular", "es": "I" },
+                        { "en": "2nd Person", "es": "You" },
+                        { "en": "3rd Person Singular", "es": "He / She / It" },
+                        { "en": "1st Person Plural", "es": "We" },
+                        { "en": "3rd Person Plural", "es": "They" }
+                    ]
+                ]
+            },
+            "pronounsQuiz": {
+                "nombre": "Quiz de Personas Gramaticales",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Cuál es la primera persona del singular?", "opciones": ["You", "He", "We"], "solucion": "I" },
+                    { "texto": "¿Cuál es la tercera persona del singular (masculino)?", "opciones": ["She", "It", "They"], "solucion": "He" },
+                    { "texto": "'They' corresponde a la...", "opciones": ["1ra persona plural", "2da persona plural", "3ra persona singular"], "solucion": "3ra persona plural" },
+                    { "texto": "Para un objeto o animal, usamos...", "opciones": ["He", "She", "You"], "solucion": "It" },
+                    { "texto": "'We' se traduce como...", "opciones": ["Ellos", "Ustedes", "Yo"], "solucion": "Nosotros" },
+                    { "texto": "El pronombre para la segunda persona (singular y plural) es...", "opciones": ["I", "We", "They"], "solucion": "You" },
+                    { "texto": "Para 'Maria', usamos el pronombre...", "opciones": ["He", "It", "They"], "solucion": "She" },
+                    { "texto": "Para 'Juan and I', usamos el pronombre...", "opciones": ["You", "They", "He"], "solucion": "We" },
+                    { "texto": "Para 'the dogs', usamos el pronombre...", "opciones": ["It", "He", "She"], "solucion": "They" },
+                    { "texto": "El verbo en Presente Simple lleva '-s' en la...", "opciones": ["1ra persona singular", "2da persona", "1ra persona plural"], "solucion": "3ra persona singular" }
+                ]
+            },
+            "verbToBeDrag": {
+                "nombre": "Verbo To Be: Arrastrar",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "I", "droppable": "am a student." },
+                    { "draggable": "You", "droppable": "are tall." },
+                    { "draggable": "He", "droppable": "is a doctor." },
+                    { "draggable": "She", "droppable": "is not here." },
+                    { "draggable": "It", "droppable": "is cold today." },
+                    { "draggable": "We", "droppable": "are friends." },
+                    { "draggable": "They", "droppable": "are from Mexico." },
+                    { "draggable": "The cat", "droppable": "is sleeping." },
+                    { "draggable": "The books", "droppable": "are on the table." },
+                    { "draggable": "My name", "droppable": "is Carlos." }
+                ]
+            },
+            "verbToBeFill": {
+                "nombre": "Verbo To Be: Completar",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "I __ a good student.", "solucion": "AM" },
+                    { "texto": "You ___ my best friend.", "solucion": "ARE" },
+                    { "texto": "He __ from Argentina.", "solucion": "IS" },
+                    { "texto": "She __ a nurse.", "solucion": "IS" },
+                    { "texto": "It __ a sunny day.", "solucion": "IS" },
+                    { "texto": "We ___ a team.", "solucion": "ARE" },
+                    { "texto": "They ___ in the park.", "solucion": "ARE" },
+                    { "texto": "My dog __ very playful.", "solucion": "IS" }
+                ]
+            },
+            "verbToBeHangman": {
+                "nombre": "Ahorcado: Verbo To Be",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "AM", "pista": "Forma del verbo 'to be' para 'I'." },
+                    { "palabra": "IS", "pista": "Forma del verbo 'to be' para 'He', 'She', 'It'." },
+                    { "palabra": "ARE", "pista": "Forma del verbo 'to be' para 'You', 'We', 'They'." },
+                    { "palabra": "TEACHER", "pista": "Profesión. 'I am a ___'." },
+                    { "palabra": "STUDENTS", "pista": "Ocupación en el colegio. 'We are ___'." },
+                    { "palabra": "HAPPY", "pista": "Un sentimiento o emoción. 'They are ___'." }
+                ]
+            },
+            "pronounsDrag": {
+                "nombre": "Arrastrar Personas Gramaticales",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "I", "droppable": "1ra Persona Singular" },
+                    { "draggable": "You", "droppable": "2da Persona (Singular/Plural)" },
+                    { "draggable": "He", "droppable": "3ra Persona Singular (Masculino)" },
+                    { "draggable": "She", "droppable": "3ra Persona Singular (Femenino)" },
+                    { "draggable": "It", "droppable": "3ra Persona Singular (Objeto/Animal)" },
+                    { "draggable": "We", "droppable": "1ra Persona Plural" },
+                    { "draggable": "They", "droppable": "3ra Persona Plural" }
+                ]
+            },
+            "presentSimpleQuestionsError": {
+                "nombre": "Presente Simple: Errores en Preguntas",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "Do he like pizza?", "error": "Do", "solucion": "Does" },
+                    { "texto": "Does they play soccer?", "error": "Does", "solucion": "Do" },
+                    { "texto": "Where you live?", "error": "Where", "solucion": "Where do" },
+                    { "texto": "What she do?", "error": "do", "solucion": "does" },
+                    { "texto": "Do your sister works here?", "error": "works", "solucion": "work" },
+                    { "texto": "When the movie starts?", "error": "starts", "solucion": "start" },
+                    { "texto": "Why he is sad?", "error": "is", "solucion": "does" },
+                    { "texto": "How much do it cost?", "error": "do", "solucion": "does" }
+                ]
+            },
+            "presentSimpleQuestionsFill": {
+                "nombre": "Presente Simple: Completar Preguntas",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "____ you speak Spanish?", "solucion": "DO" },
+                    { "texto": "____ she work on weekends?", "solucion": "DOES" },
+                    { "texto": "Where ____ they live?", "solucion": "DO" },
+                    { "texto": "What ____ he eat for breakfast?", "solucion": "DOES" },
+                    { "texto": "When ____ the class begin?", "solucion": "DOES" },
+                    { "texto": "____ we have homework today?", "solucion": "DO" }
+                ]
+            },
+            "verbToBeMemory": {
+                "nombre": "Memoria: Verbo To Be",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "I", "es": "am" },
+                    { "en": "You", "es": "are" },
+                    { "en": "He", "es": "is" },
+                    { "en": "She", "es": "is" },
+                    { "en": "It", "es": "is" },
+                    { "en": "We", "es": "are" },
+                    { "en": "They", "es": "are" }
+                ]
+            },
+            "presentSimpleMemory": {
+                "nombre": "Memoria: Presente Simple",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "I / You / We / They", "es": "work" },
+                    { "en": "He / She / It", "es": "works" },
+                    { "en": "I / You / We / They", "es": "don't" },
+                    { "en": "He / She / It", "es": "doesn't" },
+                    { "en": "Do", "es": "I / You / We / They" },
+                    { "en": "Does", "es": "He / She / It" }
+                ]
+            },
+            "objectPronounsMemory": {
+                "nombre": "Memoria: Pronombres Objeto",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "I", "es": "Me" },
+                    { "en": "You", "es": "You" },
+                    { "en": "He", "es": "Him" },
+                    { "en": "She", "es": "Her" },
+                    { "en": "It", "es": "It" },
+                    { "en": "We", "es": "Us" },
+                    { "en": "They", "es": "Them" }
+                ]
+            },
+            "verbToBeContractionsMemory": {
+                "nombre": "Memoria: Contrac. Verbo To Be",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "I am", "es": "I'm" },
+                    { "en": "You are", "es": "You're" },
+                    { "en": "He is", "es": "He's" },
+                    { "en": "She is", "es": "She's" },
+                    { "en": "It is", "es": "It's" },
+                    { "en": "We are", "es": "We're" },
+                    { "en": "They are", "es": "They're" },
+                    { "en": "Is not", "es": "Isn't" },
+                    { "en": "Are not", "es": "Aren't" }
+                ]
+            },
+            "verbToBeRoulette": {
+                "nombre": "Ruleta: Verbo To Be",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "Para 'I', la forma correcta es...", "solucion": { "valor": "am", "explicacion": "Correcto, 'I am' es la conjugación correcta." }, "opcionesFalsas": [{ "valor": "is", "explicacion": "Incorrecto, 'is' es para la tercera persona." }, { "valor": "are", "explicacion": "Incorrecto, 'are' es para 'you', 'we', 'they'." }] },
+                    { "texto": "Para 'He', la forma correcta es...", "solucion": { "valor": "is", "explicacion": "Correcto, 'He is' es la conjugación correcta." }, "opcionesFalsas": [{ "valor": "am", "explicacion": "Incorrecto, 'am' es para 'I'." }, { "valor": "are", "explicacion": "Incorrecto, 'are' es para plurales y 'you'." }] }
+                ]
+            }
+        }
+    },
+    "matematicas": {
+        "nombre": "Matemáticas",
+        "temas": {
+            "algebraBasica": {
+                "nombre": "Álgebra Básica",
+                "juego": "basicOperations",
+                "preguntas": [
+                    { "texto": "Simplifica: 3x + 5y - x + 2y", "solucion": "2x+7y" },
+                    { "texto": "Evalúa 2a - 3b si a=5 y b=2", "solucion": "4" },
+                    { "texto": "Expande: (x + 3)²", "solucion": "x^2+6x+9" },
+                    { "texto": "Calcula: (-2)^4", "solucion": "16" },
+                    { "texto": "Simplifica: (x^5)(x^3)", "solucion": "x^8" },
+                    { "texto": "Simplifica: y^7 / y^4", "solucion": "y^3" },
+                    { "texto": "Evalúa 5(a+b) si a=2 y b=-3", "solucion": "-5" },
+                    { "texto": "Expande: (a - b)(a + b)", "solucion": "a^2-b^2" },
+                    { "texto": "Simplifica: 4(x - 2) + 3(x + 1)", "solucion": "7x-5" },
+                    { "texto": "Calcula: 3^2 + 4^2", "solucion": "25" }
+                ]
+            },
+            "factorizacionQuiz": {
+                "nombre": "Quiz de Factorización",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Cómo se factoriza x² - 9?", "opciones": ["(x-3)²", "(x+3)²", "(x-3)(x+3)"], "solucion": "(x-3)(x+3)" },
+                    { "texto": "Factor común de 5a² + 10a:", "opciones": ["5", "a", "5a"], "solucion": "5a" },
+                    { "texto": "¿Cómo se factoriza x² + 5x + 6?", "opciones": ["(x+6)(x+1)", "(x+2)(x+3)", "(x-2)(x-3)"], "solucion": "(x+2)(x+3)" },
+                    { "texto": "Factoriza 4y² - 25:", "opciones": ["(2y-5)²", "(2y-5)(2y+5)", "(4y-5)(y+5)"], "solucion": "(2y-5)(2y+5)" },
+                    { "texto": "¿Cómo se factoriza a² - 2a + 1?", "opciones": ["(a-1)²", "(a+1)²", "(a-1)(a+1)"], "solucion": "(a-1)²" },
+                    { "texto": "Factor común de 3x³ - 6x² + 9x:", "opciones": ["3", "x", "3x"], "solucion": "3x" },
+                    { "texto": "¿Cómo se factoriza x² - x - 12?", "opciones": ["(x-6)(x+2)", "(x+4)(x-3)"], "solucion": "(x-4)(x+3)" },
+                    { "texto": "Factoriza 8m³ + 1:", "opciones": ["(2m-1)(4m²+2m+1)", "(2m+1)(4m²-2m+1)", "(2m+1)²"], "solucion": "(2m+1)(4m²-2m+1)" },
+                    { "texto": "Factoriza por agrupación: xy + 2x + 3y + 6", "opciones": ["(x+2)(y+3)", "(x+3)(y+2)", "(x+y)(2+3)"], "solucion": "(x+3)(y+2)" },
+                    { "texto": "¿Cómo se factoriza 9x² + 12x + 4?", "opciones": ["(3x+2)²", "(3x-2)²", "(9x+4)(x+1)"], "solucion": "(3x+2)²" }
+                ]
+            },
+            "ecuacionesComplejas": {
+                "nombre": "Ecuaciones Avanzadas",
+                "juego": "equationSolver",
+                "preguntas": [
+                    { "texto": "3x - 5 = x + 7", "solucion": "6" },
+                    { "texto": "5(y - 2) = 20", "solucion": "6" },
+                    { "texto": "a/4 + 3 = 5", "solucion": "8" },
+                    { "texto": "2(z + 1) = 3(z - 2)", "solucion": "8" },
+                    { "texto": "10 - 2b = b + 1", "solucion": "3" },
+                    { "texto": "x/2 + x/3 = 5", "solucion": "6" },
+                    { "texto": "4c - (c + 2) = 7", "solucion": "3" },
+                    { "texto": "5 - y/3 = 1", "solucion": "12" },
+                    { "texto": "2x + 8 = 5x - 1", "solucion": "3" },
+                    { "texto": "(x+1)/3 = 2", "solucion": "5" }
+                ]
+            },
+            "trigonometriaErrores": {
+                "nombre": "Errores en Trigonometría",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "En un triángulo rectángulo, la hipotenusa es el lado más corto.", "error": "corto", "solucion": "largo" },
+                    { "texto": "El seno de un ángulo es cateto adyacente sobre hipotenusa.", "error": "adyacente", "solucion": "opuesto" },
+                    { "texto": "La tangente de un ángulo es hipotenusa sobre cateto opuesto.", "error": "hipotenusa", "solucion": "cateto" },
+                    { "texto": "El Teorema de Pitágoras es a² - b² = c².", "error": "-", "solucion": "+" },
+                    { "texto": "El coseno de 45° es igual a 1.", "error": "1", "solucion": "√2/2" },
+                    { "texto": "La suma de los ángulos de un triángulo es 360°.", "error": "360°", "solucion": "180°" },
+                    { "texto": "El seno de 30° es igual al coseno de 30°.", "error": "coseno", "solucion": "seno" },
+                    { "texto": "La secante es la inversa del seno.", "error": "seno", "solucion": "coseno" },
+                    { "texto": "En un círculo unitario, la coordenada 'y' representa el coseno.", "error": "coseno", "solucion": "seno" },
+                    { "texto": "El valor máximo de la función seno es 2.", "error": "2", "solucion": "1" }
+                ]
+            },
+            "secuenciasComplejas": {
+                "nombre": "Secuencias Complejas",
+                "juego": "numberSequence",
+                "preguntas": [
+                    { "texto": "3, 9, 27, 81, ?", "solucion": "243" },
+                    { "texto": "1, 3, 6, 10, 15, ?", "solucion": "21" },
+                    { "texto": "88, 85, 82, 79, ?", "solucion": "76" },
+                    { "texto": "2, 5, 11, 23, ?", "solucion": "47" },
+                    { "texto": "1, 8, 27, 64, ?", "solucion": "125" },
+                    { "texto": "1, 2, 3, 5, 8, ?", "solucion": "13" },
+                    { "texto": "64, 32, 16, 8, ?", "solucion": "4" },
+                    { "texto": "1, 10, 100, 1000, ?", "solucion": "10000" },
+                    { "texto": "4, 9, 16, 25, ?", "solucion": "36" },
+                    { "texto": "2, 3, 5, 7, 11, ?", "solucion": "13" }
+                ]
+            },
+            "factorizacionDrag": {
+                "nombre": "Arrastrar Factorización",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "x² - y²", "droppable": "(x - y)(x + y)" },
+                    { "draggable": "x² + 2xy + y²", "droppable": "(x + y)²" },
+                    { "draggable": "x² - 2xy + y²", "droppable": "(x - y)²" },
+                    { "draggable": "x³ + y³", "droppable": "(x + y)(x² - xy + y²)" },
+                    { "draggable": "x³ - y³", "droppable": "(x - y)(x² + xy + y²)" },
+                    { "draggable": "ax + ay", "droppable": "a(x + y)" },
+                    { "draggable": "x² + (a+b)x + ab", "droppable": "(x + a)(x + b)" },
+                    { "draggable": "4x² - 9", "droppable": "(2x - 3)(2x + 3)" },
+                    { "draggable": "Trinomio Cuadrado Perfecto", "droppable": "a² ± 2ab + b²" },
+                    { "draggable": "Diferencia de Cuadrados", "droppable": "a² - b²" }
+                ]
+            },
+            "trigonometriaPairs": {
+                "nombre": "Unir Razones Trigonométricas",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "Seno (sin)", "es": "Opuesto / Hipotenusa" },
+                        { "en": "Coseno (cos)", "es": "Adyacente / Hipotenusa" },
+                        { "en": "Tangente (tan)", "es": "Opuesto / Adyacente" },
+                        { "en": "Cosecante (csc)", "es": "Hipotenusa / Opuesto" },
+                        { "en": "Secante (sec)", "es": "Hipotenusa / Adyacente" },
+                        { "en": "Cotangente (cot)", "es": "Adyacente / Opuesto" },
+                        { "en": "sin²θ + cos²θ", "es": "1" },
+                        { "en": "Teorema de Pitágoras", "es": "a² + b² = c²" },
+                        { "en": "tan(θ)", "es": "sin(θ) / cos(θ)" },
+                        { "en": "Suma de ángulos de un triángulo", "es": "180°" }
+                    ]
+                ]
+            },
+            "ordenarReales": {
+                "nombre": "Ordenar Números Reales",
+                "juego": "numberOrder",
+                "preguntas": [
+                    { "texto": "Ordena de menor a mayor", "numeros": [3.14, 3.141, 3.1, 3.1415] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [0.5, 0.333, 0.75, 0.4] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [-1.5, -1.05, -1.55, -1.005] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [1.4142, 1.4, 1.414, 1.42] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [0.666, 0.6, 0.66, 0.667] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [3.14159, 3.14, 3.1428, 3.15] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [-2.5, -2.4, -2.6, -2.75] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [1, 0.99, 1.01, 0.909] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [3, 3.01, 2.99, 2.667] },
+                    { "texto": "Ordena de menor a mayor", "numeros": [0.1, 0.01, 0.11, 0.101] }
+                ]
+            },
+            "rouletteFormulas": {
+                "nombre": "Ruleta de Fórmulas",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "La fórmula del área de un círculo es...", "solucion": { "valor": "πr²", "explicacion": "El área de un círculo es Pi por el radio al cuadrado." }, "opcionesFalsas": [{ "valor": "2πr", "explicacion": "2πr es la fórmula de la circunferencia, no del área." }, { "valor": "πd", "explicacion": "πd también es la circunferencia (Pi por diámetro)." }, { "valor": "r²", "explicacion": "r² por sí solo no es la fórmula completa." }] },
+                    { "texto": "El Teorema de Pitágoras se expresa como...", "solucion": { "valor": "a²+b²=c²", "explicacion": "La suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa." }, "opcionesFalsas": [{ "valor": "a+b=c", "explicacion": "Esto no es una fórmula general para triángulos rectángulos." }, { "valor": "a²-b²=c²", "explicacion": "El teorema usa una suma, no una resta." }, { "valor": "a²+b²=c", "explicacion": "La hipotenusa también debe estar al cuadrado." }] },
+                    { "texto": "La fórmula para el área de un triángulo es...", "solucion": { "valor": "(b*h)/2", "explicacion": "El área es la base por la altura, dividido entre dos." }, "opcionesFalsas": [{ "valor": "b*h", "explicacion": "b*h es la fórmula para el área de un rectángulo." }, { "valor": "l+l+l", "explicacion": "Esto representa el perímetro." }, { "valor": "2b+2h", "explicacion": "Esto sería el perímetro de un rectángulo." }] },
+                    { "texto": "La solución para una ecuación cuadrática es...", "solucion": { "valor": "Fórmula General", "explicacion": "Se usa la fórmula general: x = [-b ± √(b²-4ac)] / 2a." }, "opcionesFalsas": [{ "valor": "y=mx+b", "explicacion": "Esta es la ecuación de una recta." }, { "valor": "Despejar x", "explicacion": "No siempre se puede despejar 'x'." }, { "valor": "Factorizar", "explicacion": "Factorizar es un método, no la fórmula general." }] },
+                    { "texto": "El volumen de un cubo se calcula como...", "solucion": { "valor": "L³", "explicacion": "El volumen es el lado elevado al cubo." }, "opcionesFalsas": [{ "valor": "L²", "explicacion": "L² es el área de una cara." }, { "valor": "6L²", "explicacion": "6L² es el área superficial total del cubo." }, { "valor": "4L", "explicacion": "4L sería el perímetro de una cara." }] },
+                    { "texto": "La pendiente de una recta se representa con la letra...", "solucion": { "valor": "m", "explicacion": "En la ecuación y = mx + b, 'm' es la pendiente." }, "opcionesFalsas": [{ "valor": "b", "explicacion": "'b' es el intercepto con el eje y." }, { "valor": "x", "explicacion": "'x' es la variable independiente." }, { "valor": "y", "explicacion": "'y' es la variable dependiente." }] },
+                    { "texto": "La fórmula del perímetro de un rectángulo es...", "solucion": { "valor": "2(l+a)", "explicacion": "Es dos veces la suma del largo más el ancho." }, "opcionesFalsas": [{ "valor": "l*a", "explicacion": "l*a es la fórmula del área." }, { "valor": "l+a", "explicacion": "Esto es solo la mitad del perímetro." }, { "valor": "l²", "explicacion": "Esto no se aplica a un rectángulo." }] },
+                    { "texto": "La suma de los ángulos internos de un cuadrilátero es...", "solucion": { "valor": "360°", "explicacion": "Cualquier cuadrilátero (cuadrado, rectángulo, etc.) suma 360°." }, "opcionesFalsas": [{ "valor": "180°", "explicacion": "180° es la suma para un triángulo." }, { "valor": "90°", "explicacion": "90° es el valor de un ángulo recto." }, { "valor": "540°", "explicacion": "540° es la suma para un pentágono." }] },
+                    { "texto": "La fórmula de la velocidad es...", "solucion": { "valor": "d/t", "explicacion": "Velocidad es igual a distancia sobre tiempo." }, "opcionesFalsas": [{ "valor": "d*t", "explicacion": "Distancia por tiempo no define la velocidad." }, { "valor": "t/d", "explicacion": "Esto sería el inverso de la velocidad." }, { "valor": "m*a", "explicacion": "m*a es la segunda ley de Newton (Fuerza)." }] },
+                    { "texto": "El área de un trapecio es...", "solucion": { "valor": "((B+b)*h)/2", "explicacion": "Es la suma de las bases por la altura, sobre dos." }, "opcionesFalsas": [{ "valor": "(B*b)/2", "explicacion": "Esto no corresponde a la fórmula." }, { "valor": "B*h", "explicacion": "Esto sería el área de un paralelogramo." }, { "valor": "(B+b)*h", "explicacion": "Falta dividir entre 2." }] }
+                ]
+            },
+            "graficasLineales": {
+                "nombre": "Gráficas Lineales",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "En y = 2x + 3, ¿cuál es la pendiente?", "opciones": ["y", "x", "3"], "solucion": "2" },
+                    { "texto": "En y = -x + 5, ¿cuál es el intercepto en y?", "opciones": ["-1", "x", "y"], "solucion": "5" },
+                    { "texto": "Una pendiente positiva indica que la recta...", "opciones": ["es horizontal", "baja de izquierda a derecha", "es vertical"], "solucion": "sube de izquierda a derecha" },
+                    { "texto": "Una pendiente de 0 indica que la recta...", "opciones": ["es vertical", "sube", "baja"], "solucion": "es horizontal" },
+                    { "texto": "En la ecuación y = 3x, ¿dónde cruza la recta el eje y?", "opciones": ["En 3", "No lo cruza", "En 1"], "solucion": "En el origen (0,0)" },
+                    { "texto": "¿Qué significa 'b' en y = mx + b?", "opciones": ["La pendiente", "La variable x", "La variable y"], "solucion": "El intercepto en y" },
+                    { "texto": "Si dos rectas son paralelas, sus pendientes son...", "opciones": ["diferentes", "opuestas", "negativas"], "solucion": "iguales" },
+                    { "texto": "En la ecuación y = 4, la pendiente es...", "opciones": ["4", "1", "indefinida"], "solucion": "0" },
+                    { "texto": "En la ecuación x = 3, la pendiente es...", "opciones": ["3", "0", "1"], "solucion": "indefinida" },
+                    { "texto": "Para la recta y = 5x - 10, ¿cuál es el intercepto en x?", "opciones": ["-10", "5", "1"], "solucion": "2" }
+                ]
+            },
+            "operacionesDecimales": {
+                "nombre": "Operaciones con Decimales",
+                "juego": "basicOperations",
+                "preguntas": [
+                    { "texto": "Calcula: 1.5 + 2.3", "solucion": "3.8" },
+                    { "texto": "Calcula: 5.8 - 2.1", "solucion": "3.7" },
+                    { "texto": "Calcula: 0.5 * 4", "solucion": "2" },
+                    { "texto": "Calcula: 7.5 / 3", "solucion": "2.5" },
+                    { "texto": "Calcula: 10 - 3.5", "solucion": "6.5" },
+                    { "texto": "Calcula: 1.2 * 1.2", "solucion": "1.44" },
+                    { "texto": "Calcula: 0.25 + 0.75", "solucion": "1" },
+                    { "texto": "Calcula: 9.9 / 0.9", "solucion": "11" },
+                    { "texto": "Calcula: 3 * 1.5", "solucion": "4.5" },
+                    { "texto": "Calcula: 2 - 0.01", "solucion": "1.99" }
+                ]
+            },
+            "memoryFormulas": {
+                "nombre": "Memoria de Fórmulas",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "Área del Círculo", "es": "πr²" },
+                    { "en": "Área del Triángulo", "es": "(b*h)/2" },
+                    { "en": "Teorema de Pitágoras", "es": "a²+b²=c²" },
+                    { "en": "Volumen del Cubo", "es": "L³" },
+                    { "en": "Ecuación de la Recta", "es": "y=mx+b" },
+                    { "en": "Perímetro del Rectángulo", "es": "2(l+a)" },
+                    { "en": "Velocidad", "es": "d/t" },
+                    { "en": "Diferencia de Cuadrados", "es": "a²-b²" }
+                ]
+            },
+            "mathHangman": {
+                "nombre": "Ahorcado de Conceptos",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "SUMA", "pista": "Operación para juntar cantidades." },
+                    { "palabra": "ANGULO", "pista": "Figura formada por dos líneas desde un mismo punto." },
+                    { "palabra": "FRACCION", "pista": "Representa una parte de un todo." },
+                    { "palabra": "ECUACION", "pista": "Igualdad matemática con una o más incógnitas." },
+                    { "palabra": "RADIO", "pista": "Distancia del centro de un círculo a su borde." }
+                ]
+            },
+            "mathFill": {
+                "nombre": "Completar el Concepto",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "El resultado de 2+2 es ____.", "solucion": "CUATRO" },
+                    { "texto": "Un polígono de 3 lados es un _________.", "solucion": "TRIANGULO" },
+                    { "texto": "La fórmula del área de un cuadrado es lado por ____.", "solucion": "LADO" }
+                ]
+            },
+            "decimalesQuiz": {
+                "nombre": "Quiz de Decimales",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Cuál es el valor de 0.5 + 0.25?", "opciones": ["0.7", "0.8", "0.70"], "solucion": "0.75" },
+                    { "texto": "¿Qué número es mayor: 0.12 o 0.012?", "opciones": ["0.012", "Son iguales", "Depende"], "solucion": "0.12" },
+                    { "texto": "¿Cómo se escribe 'tres décimas' en decimal?", "opciones": ["3.0", "0.03", "3/10"], "solucion": "0.3" },
+                    { "texto": "El resultado de 1.5 * 2 es...", "opciones": ["2.5", "3.5", "1.52"], "solucion": "3.0" },
+                    { "texto": "¿Cuántos decimales tiene el número Pi (π)?", "opciones": ["2", "Infinitos", "3"], "solucion": "Infinitos" }
+                ]
+            },
+            "decimalesErrores": {
+                "nombre": "Errores con Decimales",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "0,5 es igual a 0.05.", "error": "0.05", "solucion": "0.5" },
+                    { "texto": "La suma de 1.2 y 0.8 es 1.10.", "error": "1.10", "solucion": "2.0" },
+                    { "texto": "0.75 se lee como 'setenta y cinco centésimos'.", "error": "setenta y cinco centésimos", "solucion": "setenta y cinco centésimas" },
+                    { "texto": "Para multiplicar por 10, se mueve la coma a la izquierda.", "error": "izquierda", "solucion": "derecha" },
+                    { "texto": "El número 2.30 es diferente de 2.3.", "error": "diferente", "solucion": "igual" }
+                ]
+            },
+            "decimalesDrag": {
+                "nombre": "Arrastrar Decimales",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "0.5", "droppable": "Un medio" },
+                    { "draggable": "0.25", "droppable": "Un cuarto" },
+                    { "draggable": "0.75", "droppable": "Tres cuartos" },
+                    { "draggable": "0.1", "droppable": "Un décimo" },
+                    { "draggable": "0.01", "droppable": "Un centésimo" }
+                ]
+            },
+            "decimalesFill": {
+                "nombre": "Completar Decimales",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "0.5 es igual a un ____.", "solucion": "MEDIO" },
+                    { "texto": "La parte entera de 3.14 es ____.", "solucion": "TRES" },
+                    { "texto": "Para dividir por 100, la coma se mueve dos lugares a la ____.", "solucion": "IZQUIERDA" },
+                    { "texto": "El número 0.7 se lee como siete ____.", "solucion": "DECIMAS" }
+                ]
+            },
+            "planoCartesianoPairs": {
+                "nombre": "Unir Puntos en el Plano",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "(2, 3)", "es": "Cuadrante I" },
+                        { "en": "(-1, 4)", "es": "Cuadrante II" },
+                        { "en": "(-3, -2)", "es": "Cuadrante III" },
+                        { "en": "(4, -1)", "es": "Cuadrante IV" },
+                        { "en": "(0, 5)", "es": "Eje Y" },
+                        { "en": "(6, 0)", "es": "Eje X" }
+                    ]
+                ]
+            },
+            "rectaNumericaDrag": {
+                "nombre": "Arrastrar a la Recta Numérica",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "-3", "droppable": "Izquierda del 0" },
+                    { "draggable": "5", "droppable": "Derecha del 0" },
+                    { "draggable": "0", "droppable": "Origen" },
+                    { "draggable": "-1.5", "droppable": "Entre -2 y -1" },
+                    { "draggable": "2.5", "droppable": "Entre 2 y 3" }
+                ]
+            },
+            "graficasErrores": {
+                "nombre": "Errores en Gráficas",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "Una línea horizontal tiene pendiente indefinida.", "error": "indefinida", "solucion": "cero" },
+                    { "texto": "El eje X es el eje vertical.", "error": "vertical", "solucion": "horizontal" },
+                    { "texto": "En una gráfica de barras, la altura de la barra no importa.", "error": "no importa", "solucion": "representa el valor" },
+                    { "texto": "El punto (3,2) significa 3 unidades hacia abajo y 2 a la derecha.", "error": "abajo", "solucion": "arriba" },
+                    { "texto": "Una recta numérica solo contiene números positivos.", "error": "positivos", "solucion": "reales" }
+                ]
+            },
+            "ecuacionesLinealesFill": {
+                "nombre": "Completar Ecuaciones Lineales",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "La forma general de una ecuación lineal es y = mx + ____.", "solucion": "B" },
+                    { "texto": "En y = 3x + 2, la pendiente es ____.", "solucion": "TRES" },
+                    { "texto": "El punto donde la recta cruza el eje Y es el ____ en Y.", "solucion": "INTERCEPTO" },
+                    { "texto": "Si la pendiente es negativa, la recta ____ de izquierda a derecha.", "solucion": "BAJA" }
+                ]
+            },
+            "graficasQuiz": {
+                "nombre": "Quiz de Gráficas y Rectas",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Qué tipo de gráfica muestra la relación entre dos variables?", "opciones": ["Barras", "Circular", "Histograma"], "solucion": "Dispersión" },
+                    { "texto": "¿Cuál es el nombre del punto (0,0) en el plano cartesiano?", "opciones": ["Eje", "Coordenada", "Vértice"], "solucion": "Origen" },
+                    { "texto": "Una recta numérica se extiende infinitamente en...", "opciones": ["Una dirección", "Dos direcciones", "Ninguna dirección"], "solucion": "Dos direcciones" },
+                    { "texto": "Si una recta es paralela al eje X, su pendiente es...", "opciones": ["Indefinida", "Positiva", "Negativa"], "solucion": "Cero" },
+                    { "texto": "¿Qué representa la 'm' en la ecuación y = mx + b?", "opciones": ["Intercepto", "Variable", "Constante"], "solucion": "Pendiente" }
+                ]
+            }
+            ,
+            "planoCartesianoDrag": {
+                "nombre": "Arrastrar en el Plano Cartesiano",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "Punto (2, 5)", "droppable": "Cuadrante I (+, +)" },
+                    { "draggable": "Punto (-3, 1)", "droppable": "Cuadrante II (-, +)" },
+                    { "draggable": "Punto (-4, -6)", "droppable": "Cuadrante III (-, -)" },
+                    { "draggable": "Punto (5, -2)", "droppable": "Cuadrante IV (+, -)" },
+                    { "draggable": "Eje Horizontal", "droppable": "Eje de las Abscisas (X)" },
+                    { "draggable": "Eje Vertical", "droppable": "Eje de las Ordenadas (Y)" },
+                    { "draggable": "Punto (0, 0)", "droppable": "Origen" }
+                ]
+            },
+            "graficasLinealesPairs": {
+                "nombre": "Unir Conceptos de Gráficas",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "Pendiente (m)", "es": "Inclinación de la recta" },
+                        { "en": "Intercepto (b)", "es": "Punto de corte con el eje Y" },
+                        { "en": "Pendiente positiva", "es": "Recta que sube" },
+                        { "en": "Pendiente negativa", "es": "Recta que baja" },
+                        { "en": "Pendiente cero", "es": "Recta horizontal" },
+                        { "en": "Pendiente indefinida", "es": "Recta vertical" }
+                    ]
+                ]
+            },
+            "decimalesSequence": {
+                "nombre": "Secuencias con Decimales",
+                "juego": "numberSequence",
+                "preguntas": [
+                    { "texto": "0.2, 0.4, 0.6, 0.8, ?", "solucion": "1.0" },
+                    { "texto": "1.5, 2.0, 2.5, 3.0, ?", "solucion": "3.5" },
+                    { "texto": "5.0, 4.5, 4.0, 3.5, ?", "solucion": "3.0" },
+                    { "texto": "0.1, 0.15, 0.2, 0.25, ?", "solucion": "0.3" }
+                ]
+            },
+            "ecuacionesLinealesSolver": {
+                "nombre": "Resolver Ecuaciones Lineales",
+                "juego": "equationSolver",
+                "preguntas": [
+                    { "texto": "y = 2x + 1. Si x=3, ¿cuál es el valor de y?", "solucion": "7" },
+                    { "texto": "y = -x + 5. Si x=2, ¿cuál es el valor de y?", "solucion": "3" },
+                    { "texto": "y = 3x. Si y=9, ¿cuál es el valor de x?", "solucion": "3" },
+                    { "texto": "y = x/2 + 4. Si x=6, ¿cuál es el valor de y?", "solucion": "7" }
+                ]
+            },
+            "rectaNumericaOperations": {
+                "nombre": "Operaciones en la Recta Numérica",
+                "juego": "basicOperations",
+                "preguntas": [
+                    { "texto": "Si estás en -2 y avanzas 5 unidades, ¿a qué número llegas?", "solucion": "3" },
+                    { "texto": "Si estás en 4 y retrocedes 6 unidades, ¿a qué número llegas?", "solucion": "-2" },
+                    { "texto": "¿Cuántas unidades hay entre -3 y 4?", "solucion": "7" },
+                    { "texto": "El punto medio entre -2 y 6 es...", "solucion": "2" }
+                ]
+            },
+            "geometriaRoulette": {
+                "nombre": "Ruleta de Geometría",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "Un polígono con 5 lados se llama...", "solucion": { "valor": "Pentágono", "explicacion": "Correcto, 'penta' significa cinco." }, "opcionesFalsas": [{ "valor": "Hexágono", "explicacion": "Incorrecto, un hexágono tiene 6 lados." }, { "valor": "Cuadrado", "explicacion": "Incorrecto, un cuadrado tiene 4 lados." }] },
+                    { "texto": "La línea que divide un círculo en dos mitades iguales es el...", "solucion": { "valor": "Diámetro", "explicacion": "Correcto, el diámetro pasa por el centro." }, "opcionesFalsas": [{ "valor": "Radio", "explicacion": "Incorrecto, el radio va del centro a un borde." }, { "valor": "Cuerda", "explicacion": "Incorrecto, una cuerda no necesariamente pasa por el centro." }] }
+                ]
+            },
+            "geometriaHangman": {
+                "nombre": "Ahorcado de Geometría",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "CIRCULO", "pista": "Figura redonda sin esquinas." },
+                    { "palabra": "TRIANGULO", "pista": "Polígono de tres lados." },
+                    { "palabra": "PERIMETRO", "pista": "Suma de las longitudes de los lados de una figura." }
+                ]
+            },
+            "geometriaMemory": {
+                "nombre": "Memoria de Geometría",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "Cuadrado", "es": "4 lados iguales" },
+                    { "en": "Círculo", "es": "No tiene lados rectos" },
+                    { "en": "Triángulo", "es": "3 lados" }
+                ]
+            }
+        }
+    },
+    "quimica": {
+        "nombre": "Química",
+        "temas": {
+            "rouletteSimbolos": {
+                "nombre": "Ruleta de Símbolos",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "El símbolo del Oro es...", "solucion": { "valor": "Au", "explicacion": "Au viene del latín 'Aurum'." }, "opcionesFalsas": [{ "valor": "Ag", "explicacion": "Ag es el símbolo de la Plata." }, { "valor": "Fe", "explicacion": "Fe es el símbolo del Hierro." }, { "valor": "Pb", "explicacion": "Pb es el símbolo del Plomo." }] },
+                    { "texto": "El símbolo del Sodio es...", "solucion": { "valor": "Na", "explicacion": "Na viene del latín 'Natrium'." }, "opcionesFalsas": [{ "valor": "S", "explicacion": "S es el símbolo del Azufre." }, { "valor": "K", "explicacion": "K es el símbolo del Potasio." }, { "valor": "Si", "explicacion": "Si es el símbolo del Silicio." }] },
+                    { "texto": "El símbolo del Fósforo es...", "solucion": { "valor": "P", "explicacion": "P viene del griego 'Phosphoros'." }, "opcionesFalsas": [{ "valor": "F", "explicacion": "F es el símbolo del Flúor." }, { "valor": "K", "explicacion": "K es el símbolo del Potasio." }, { "valor": "Po", "explicacion": "Po es el símbolo del Polonio." }] },
+                    { "texto": "El símbolo del Mercurio es...", "solucion": { "valor": "Hg", "explicacion": "Hg viene del griego 'Hydrargyrum'." }, "opcionesFalsas": [{ "valor": "Mc", "explicacion": "Mc es el símbolo del Moscovio." }, { "valor": "Mg", "explicacion": "Mg es el símbolo del Magnesio." }, { "valor": "H", "explicacion": "H es el símbolo del Hidrógeno." }] },
+                    { "texto": "El símbolo de la Plata es...", "solucion": { "valor": "Ag", "explicacion": "Ag viene del latín 'Argentum'." }, "opcionesFalsas": [{ "valor": "Au", "explicacion": "Au es el símbolo del Oro." }, { "valor": "Al", "explicacion": "Al es el símbolo del Aluminio." }, { "valor": "Ar", "explicacion": "Ar es el símbolo del Argón." }] },
+                    { "texto": "El símbolo del Potasio es...", "solucion": { "valor": "K", "explicacion": "K viene del latín 'Kalium'." }, "opcionesFalsas": [{ "valor": "P", "explicacion": "P es el símbolo del Fósforo." }, { "valor": "Po", "explicacion": "Po es el símbolo del Polonio." }, { "valor": "Pt", "explicacion": "Pt es el símbolo del Platino." }] },
+                    { "texto": "El símbolo del Hierro es...", "solucion": { "valor": "Fe", "explicacion": "Fe viene del latín 'Ferrum'." }, "opcionesFalsas": [{ "valor": "H", "explicacion": "H es el símbolo del Hidrógeno." }, { "valor": "He", "explicacion": "He es el símbolo del Helio." }, { "valor": "F", "explicacion": "F es el símbolo del Flúor." }] },
+                    { "texto": "El símbolo del Plomo es...", "solucion": { "valor": "Pb", "explicacion": "Pb viene del latín 'Plumbum'." }, "opcionesFalsas": [{ "valor": "P", "explicacion": "P es el símbolo del Fósforo." }, { "valor": "Pt", "explicacion": "Pt es el símbolo del Platino." }, { "valor": "Pu", "explicacion": "Pu es el símbolo del Plutonio." }] },
+                    { "texto": "El símbolo del Cobre es...", "solucion": { "valor": "Cu", "explicacion": "Cu viene del latín 'Cuprum'." }, "opcionesFalsas": [{ "valor": "C", "explicacion": "C es el símbolo del Carbono." }, { "valor": "Co", "explicacion": "Co es el símbolo del Cobalto." }, { "valor": "Ca", "explicacion": "Ca es el símbolo del Calcio." }] },
+                    { "texto": "El símbolo del Azufre es...", "solucion": { "valor": "S", "explicacion": "S viene del latín 'Sulphur'." }, "opcionesFalsas": [{ "valor": "Si", "explicacion": "Si es el símbolo del Silicio." }, { "valor": "Sn", "explicacion": "Sn es el símbolo del Estaño." }, { "valor": "Sb", "explicacion": "Sb es el símbolo del Antimonio." }] }
+                ]
+            },
+            "balanceoReacciones": {
+                "nombre": "Balanceo de Reacciones",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "En H₂ + O₂ → H₂O, ¿qué coeficiente necesita el H₂?", "opciones": ["1", "2", "3"], "solucion": "2" },
+                    { "texto": "En N₂ + H₂ → NH₃, ¿qué coeficiente necesita el NH₃?", "opciones": ["1", "2", "3"], "solucion": "2" },
+                    { "texto": "En CH₄ + O₂ → CO₂ + H₂O, ¿qué coeficiente necesita el O₂?", "opciones": ["1", "2", "4"], "solucion": "2" },
+                    { "texto": "En K + H₂O → KOH + H₂, ¿qué coeficiente necesita el K?", "opciones": ["1", "2", "4"], "solucion": "2" },
+                    { "texto": "En Fe + O₂ → Fe₂O₃, ¿qué coeficiente necesita el Fe?", "opciones": ["2", "3", "4"], "solucion": "4" },
+                    { "texto": "En P₄ + O₂ → P₂O₅, ¿qué coeficiente necesita el O₂?", "opciones": ["3", "4", "5"], "solucion": "5" },
+                    { "texto": "En Al + HCl → AlCl₃ + H₂, ¿qué coeficiente necesita el HCl?", "opciones": ["2", "3", "6"], "solucion": "6" },
+                    { "texto": "En C₃H₈ + O₂ → CO₂ + H₂O, ¿qué coeficiente necesita el O₂?", "opciones": ["3", "4", "5"], "solucion": "5" },
+                    { "texto": "En Na + Cl₂ → NaCl, ¿qué coeficiente necesita el Na?", "opciones": ["1", "2", "3"], "solucion": "2" },
+                    { "texto": "En Mg + O₂ → MgO, ¿qué coeficiente necesita el MgO?", "opciones": ["1", "2", "3"], "solucion": "2" }
+                ]
+            },
+            "nomenclaturaInorganica": {
+                "nombre": "Nomenclatura Inorgánica",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "HCl", "es": "Ácido clorhídrico" },
+                        { "en": "H₂SO₄", "es": "Ácido sulfúrico" },
+                        { "en": "NaOH", "es": "Hidróxido de sodio" },
+                        { "en": "NaCl", "es": "Cloruro de sodio" },
+                        { "en": "CO₂", "es": "Dióxido de carbono" },
+                        { "en": "Fe₂O₃", "es": "Óxido de hierro (III)" },
+                        { "en": "NH₃", "es": "Amoníaco" },
+                        { "en": "CaCO₃", "es": "Carbonato de calcio" },
+                        { "en": "HNO₃", "es": "Ácido nítrico" },
+                        { "en": "KOH", "es": "Hidróxido de potasio" }
+                    ]
+                ]
+            },
+            "gruposTablaPeriodica": {
+                "nombre": "Grupos de la Tabla Periódica",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "Na (Sodio)", "droppable": "Metales alcalinos" },
+                    { "draggable": "Ca (Calcio)", "droppable": "Metales alcalinotérreos" },
+                    { "draggable": "Fe (Hierro)", "droppable": "Metales de transición" },
+                    { "draggable": "Al (Aluminio)", "droppable": "Metales térreos" },
+                    { "draggable": "C (Carbono)", "droppable": "Carbonoideos" },
+                    { "draggable": "N (Nitrógeno)", "droppable": "Nitrogenoideos" },
+                    { "draggable": "O (Oxígeno)", "droppable": "Anfígenos o calcógenos" },
+                    { "draggable": "F (Flúor)", "droppable": "Halógenos" },
+                    { "draggable": "Ne (Neón)", "droppable": "Gases nobles" },
+                    { "draggable": "U (Uranio)", "droppable": "Actínidos" }
+                ]
+            },
+            "calculosEstequiometricos": {
+                "nombre": "Cálculos Estequiométricos",
+                "juego": "basicOperations",
+                "preguntas": [
+                    { "texto": "Masa molar del H₂O (H=1, O=16)", "solucion": "18" },
+                    { "texto": "Masa molar del CO₂ (C=12, O=16)", "solucion": "44" },
+                    { "texto": "Masa molar del NaCl (Na=23, Cl=35.5)", "solucion": "58.5" },
+                    { "texto": "¿Cuántos moles hay en 36g de H₂O?", "solucion": "2" },
+                    { "texto": "¿Cuántos gramos son 3 moles de CO₂?", "solucion": "132" },
+                    { "texto": "Masa molar del CH₄ (C=12, H=1)", "solucion": "16" },
+                    { "texto": "¿Cuántos moles hay en 64g de CH₄?", "solucion": "4" },
+                    { "texto": "Masa molar del H₂SO₄ (H=1, S=32, O=16)", "solucion": "98" },
+                    { "texto": "¿Cuántos gramos son 0.5 moles de H₂SO₄?", "solucion": "49" },
+                    { "texto": "Masa molar del NH₃ (N=14, H=1)", "solucion": "17" }
+                ]
+            },
+            "conceptosQuimicosError": {
+                "nombre": "Errores en Conceptos Químicos",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "Un átomo que gana electrones se convierte en un catión.", "error": "catión", "solucion": "anión" },
+                    { "texto": "La combustión es un ejemplo de reacción endotérmica.", "error": "endotérmica", "solucion": "exotérmica" },
+                    { "texto": "Los isótopos son átomos con diferente número de protones.", "error": "protones", "solucion": "neutrones" },
+                    { "texto": "El enlace iónico implica compartir electrones.", "error": "compartir", "solucion": "transferir" },
+                    { "texto": "Un pH de 2 indica una sustancia básica.", "error": "básica", "solucion": "ácida" },
+                    { "texto": "En la tabla periódica, los períodos son las columnas verticales.", "error": "períodos", "solucion": "grupos" },
+                    { "texto": "El número de Avogadro es el número de átomos en 1 gramo de una sustancia.", "error": "gramo", "solucion": "mol" },
+                    { "texto": "La oxidación es la ganancia de electrones.", "error": "ganancia", "solucion": "pérdida" },
+                    { "texto": "Los catalizadores aumentan la energía de activación de una reacción.", "error": "aumentan", "solucion": "disminuyen" },
+                    { "texto": "El agua es considerada el solvente apolar universal.", "error": "apolar", "solucion": "polar" }
+                ]
+            }
+            ,
+            "memoryElementos": {
+                "nombre": "Memoria de Elementos",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "Oro", "es": "Au" },
+                    { "en": "Plata", "es": "Ag" },
+                    { "en": "Hierro", "es": "Fe" },
+                    { "en": "Sodio", "es": "Na" },
+                    { "en": "Potasio", "es": "K" },
+                    { "en": "Mercurio", "es": "Hg" },
+                    { "en": "Cobre", "es": "Cu" }
+                ]
+            },
+            "quimicaHangman": {
+                "nombre": "Ahorcado de Elementos",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "OXIGENO", "pista": "Elemento esencial para la respiración, símbolo O." },
+                    { "palabra": "HIDROGENO", "pista": "Elemento más ligero y abundante, símbolo H." },
+                    { "palabra": "CARBONO", "pista": "Base de la vida orgánica, símbolo C." },
+                    { "palabra": "HELIO", "pista": "Gas noble usado para inflar globos, símbolo He." },
+                    { "palabra": "CALCIO", "pista": "Metal alcalinotérreo importante para los huesos, símbolo Ca." }
+                ]
+            },
+            "quimicaFill": {
+                "nombre": "Completar Fórmulas y Conceptos",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "La fórmula del agua es H₂_.", "solucion": "O" },
+                    { "texto": "Un átomo con carga positiva es un ______.", "solucion": "CATION" },
+                    { "texto": "El símbolo químico del Sodio es __.", "solucion": "NA" }
+                ]
+            }
+            ,
+            "conceptosBasicosRoulette": {
+                "nombre": "Ruleta de Conceptos Básicos",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "La partícula con carga positiva es el...", "solucion": { "valor": "Protón", "explicacion": "Correcto, los protones son positivos." }, "opcionesFalsas": [{ "valor": "Electrón", "explicacion": "Incorrecto, los electrones son negativos." }, { "valor": "Neutrón", "explicacion": "Incorrecto, los neutrones no tienen carga." }] },
+                    { "texto": "La fórmula del agua es...", "solucion": { "valor": "H₂O", "explicacion": "Correcto, dos átomos de hidrógeno y uno de oxígeno." }, "opcionesFalsas": [{ "valor": "CO₂", "explicacion": "Incorrecto, eso es dióxido de carbono." }, { "valor": "O₂", "explicacion": "Incorrecto, eso es oxígeno molecular." }] }
+                ]
+            },
+            "laboratorioHangman": {
+                "nombre": "Ahorcado de Laboratorio",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "MATRAZ", "pista": "Recipiente de vidrio, a menudo con fondo plano y cuello estrecho." },
+                    { "palabra": "PIPETA", "pista": "Instrumento para medir y transferir volúmenes de líquido." },
+                    { "palabra": "MECHERO", "pista": "Dispositivo que produce una llama para calentar sustancias." }
+                ]
+            },
+            "nomenclaturaMemory": {
+                "nombre": "Memoria de Nomenclatura",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "NaCl", "es": "Cloruro de Sodio" },
+                    { "en": "H₂O", "es": "Agua" },
+                    { "en": "CO₂", "es": "Dióxido de Carbono" },
+                    { "en": "HCl", "es": "Ácido Clorhídrico" },
+                    { "en": "NaOH", "es": "Hidróxido de Sodio" }
+                ]
+            }
+            ,
+            "tablaPeriodicaQuiz": {
+                "nombre": "Quiz de Tabla Periódica",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Qué elemento tiene el símbolo 'H'?", "opciones": ["Helio", "Hierro", "Hassio"], "solucion": "Hidrógeno" },
+                    { "texto": "Los elementos en la misma columna vertical se llaman...", "opciones": ["Períodos", "Series", "Familias"], "solucion": "Grupos" },
+                    { "texto": "¿A qué grupo pertenecen los gases nobles?", "opciones": ["Grupo 1", "Grupo 17", "Grupo 2"], "solucion": "Grupo 18" },
+                    { "texto": "El número atómico representa el número de...", "opciones": ["Neutrones", "Electrones", "Iones"], "solucion": "Protones" }
+                ]
+            },
+            "tablaPeriodicaErrores": {
+                "nombre": "Errores en Tabla Periódica",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "El símbolo del Sodio es So.", "error": "So", "solucion": "Na" },
+                    { "texto": "Las filas horizontales de la tabla periódica se llaman grupos.", "error": "grupos", "solucion": "períodos" },
+                    { "texto": "El Helio es un metal alcalino.", "error": "metal alcalino", "solucion": "gas noble" },
+                    { "texto": "El oxígeno y el hidrógeno están en el mismo período.", "error": "período", "solucion": "grupo" }
+                ]
+            },
+            "propiedadesMateriaQuiz": {
+                "nombre": "Quiz de Presión, Volumen y Densidad",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Cuál es la fórmula de la densidad?", "opciones": ["Masa * Volumen", "Volumen / Masa", "Masa + Volumen"], "solucion": "Masa / Volumen" },
+                    { "texto": "La unidad de presión en el Sistema Internacional es el...", "opciones": ["Newton", "Bar", "Julio"], "solucion": "Pascal" },
+                    { "texto": "Si la temperatura de un gas aumenta, su volumen...", "opciones": ["Disminuye", "No cambia", "Se contrae"], "solucion": "Aumenta" },
+                    { "texto": "La densidad del agua es aproximadamente...", "opciones": ["10 g/cm³", "0.1 g/cm³", "100 g/cm³"], "solucion": "1 g/cm³" }
+                ]
+            },
+            "conversionesQuiz": {
+                "nombre": "Quiz de Conversión de Unidades",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Cuántos metros hay en 1 kilómetro?", "opciones": ["10", "100", "10000"], "solucion": "1000" },
+                    { "texto": "¿Cuántos gramos hay en 2.5 kilogramos?", "opciones": ["250", "25", "25000"], "solucion": "2500" },
+                    { "texto": "1 litro es igual a...", "opciones": ["100 ml", "10 ml", "10000 ml"], "solucion": "1000 ml" },
+                    { "texto": "Para convertir de metros a centímetros, se debe...", "opciones": ["Dividir por 100", "Multiplicar por 10", "Dividir por 10"], "solucion": "Multiplicar por 100" }
+                ]
+            },
+            "leyesGasesErrores": {
+                "nombre": "Errores en Leyes de los Gases",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "La Ley de Boyle dice que a mayor presión, mayor volumen.", "error": "mayor", "solucion": "menor" },
+                    { "texto": "La densidad se mide en kilogramos.", "error": "kilogramos", "solucion": "kg/m³" },
+                    { "texto": "El volumen de un gas no cambia con la temperatura.", "error": "no cambia", "solucion": "sí cambia" },
+                    { "texto": "La presión es la fuerza aplicada sobre el tiempo.", "error": "tiempo", "solucion": "área" }
+                ]
+            },
+            "unidadesMedidaPairs": {
+                "nombre": "Unir Magnitud y Unidad",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "Longitud", "es": "Metro (m)" },
+                        { "en": "Masa", "es": "Kilogramo (kg)" },
+                        { "en": "Volumen", "es": "Litro (L)" },
+                        { "en": "Presión", "es": "Pascal (Pa)" },
+                        { "en": "Densidad", "es": "kg/m³" },
+                        { "en": "Temperatura", "es": "Kelvin (K)" }
+                    ]
+                ]
+            },
+            "conceptosGasesDrag": {
+                "nombre": "Arrastrar Conceptos de Gases",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "Presión", "droppable": "Fuerza por unidad de área." },
+                    { "draggable": "Volumen", "droppable": "Espacio que ocupa un cuerpo." },
+                    { "draggable": "Densidad", "droppable": "Relación entre masa y volumen." },
+                    { "draggable": "Ley de Boyle", "droppable": "P₁V₁ = P₂V₂" },
+                    { "draggable": "Gases Nobles", "droppable": "Grupo 18, muy poco reactivos." }
+                ]
+            },
+            "calculosDensidad": {
+                "nombre": "Cálculos de Densidad",
+                "juego": "basicOperations",
+                "preguntas": [
+                    { "texto": "Si un objeto tiene una masa de 10g y un volumen de 2cm³, ¿cuál es su densidad (g/cm³)?", "solucion": "5" },
+                    { "texto": "Un líquido tiene una densidad de 0.8 g/ml. ¿Qué masa (en g) tienen 10 ml de ese líquido?", "solucion": "8" },
+                    { "texto": "Un cubo de 100g tiene una densidad de 4 g/cm³. ¿Cuál es su volumen (en cm³)?", "solucion": "25" }
+                ]
+            },
+            "conversionesBasicas": {
+                "nombre": "Conversiones Básicas",
+                "juego": "basicOperations",
+                "preguntas": [
+                    { "texto": "Convierte 3.5 kilómetros a metros.", "solucion": "3500" },
+                    { "texto": "Convierte 500 gramos a kilogramos.", "solucion": "0.5" },
+                    { "texto": "Convierte 2 litros a mililitros.", "solucion": "2000" },
+                    { "texto": "Convierte 150 centímetros a metros.", "solucion": "1.5" }
+                ]
+            },
+            "gasesNoblesHangman": {
+                "nombre": "Ahorcado de Gases Nobles",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "HELIO", "pista": "Gas noble usado para inflar globos." },
+                    { "palabra": "NEON", "pista": "Gas usado en letreros luminosos de color rojo." },
+                    { "palabra": "ARGON", "pista": "Tercer gas más abundante en la atmósfera terrestre." },
+                    { "palabra": "XENON", "pista": "Gas usado en algunos flashes de cámaras y faros de coches." }
+                ]
+            }
+        }
+    },
+    "ciencias": {
+        "nombre": "Ciencias",
+        "temas": {
+            "celulaScramble": {
+                "nombre": "Ordenar: La Célula",
+                "juego": "sentenceScramble",
+                "preguntas": [
+                    { "texto": "la celula es la unidad basica de la vida", "solucion": "la celula es la unidad basica de la vida" },
+                    { "texto": "el nucleo contiene el material genetico", "solucion": "el nucleo contiene el material genetico" }
+                ]
+            },
+            "sistemaSolarScramble": {
+                "nombre": "Ordenar: Sistema Solar",
+                "juego": "sentenceScramble",
+                "preguntas": [
+                    { "texto": "la tierra gira alrededor del sol", "solucion": "la tierra gira alrededor del sol" },
+                    { "texto": "jupiter es el planeta mas grande", "solucion": "jupiter es el planeta mas grande" }
+                ]
+            },
+            "partesCelulaPairs": {
+                "nombre": "Unir: Partes de la Célula",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "Núcleo", "es": "Controla la célula" },
+                        { "en": "Membrana", "es": "Protege la célula" },
+                        { "en": "Mitocondria", "es": "Produce energía" },
+                        { "en": "Citoplasma", "es": "Sustancia gelatinosa" }
+                    ]
+                ]
+            },
+            "planetasPairs": {
+                "nombre": "Unir: Planetas",
+                "juego": "matchingPairs",
+                "preguntas": [
+                    [
+                        { "en": "Marte", "es": "El Planeta Rojo" },
+                        { "en": "Tierra", "es": "Nuestro planeta" },
+                        { "en": "Júpiter", "es": "El más grande" },
+                        { "en": "Saturno", "es": "Tiene anillos visibles" }
+                    ]
+                ]
+            },
+            "biologiaErrores": {
+                "nombre": "Errores de Biología",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "Las plantas producen dióxido de carbono durante la fotosíntesis.", "error": "dióxido de carbono", "solucion": "oxígeno" },
+                    { "texto": "Los herbívoros son animales que comen carne.", "error": "carne", "solucion": "plantas" }
+                ]
+            },
+            "fisicaErrores": {
+                "nombre": "Errores de Física",
+                "juego": "findTheError",
+                "preguntas": [
+                    { "texto": "La gravedad es una fuerza de repulsión.", "error": "repulsión", "solucion": "atracción" },
+                    { "texto": "El sonido viaja más rápido en el vacío.", "error": "vacío", "solucion": "aire" }
+                ]
+            },
+            "cuerpoHumanoQuiz": {
+                "nombre": "Quiz: Cuerpo Humano",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Cuál es el hueso más largo del cuerpo humano?", "opciones": ["Tibia", "Cráneo", "Costilla"], "solucion": "Fémur" },
+                    { "texto": "¿Qué órgano bombea la sangre?", "opciones": ["Pulmón", "Estómago", "Hígado"], "solucion": "Corazón" }
+                ]
+            },
+            "ecosistemasQuiz": {
+                "nombre": "Quiz: Ecosistemas",
+                "juego": "quiz",
+                "preguntas": [
+                    { "texto": "¿Qué organismo produce su propio alimento?", "opciones": ["Consumidor", "Descomponedor", "Hervíboro"], "solucion": "Productor" },
+                    { "texto": "Un desierto es un ejemplo de ecosistema...", "opciones": ["Acuático", "Mixto", "Polar"], "solucion": "Terrestre" }
+                ]
+            },
+            "calculosVelocidad": {
+                "nombre": "Cálculos de Velocidad",
+                "juego": "basicOperations",
+                "preguntas": [
+                    { "texto": "Si un coche recorre 100km en 2 horas, ¿cuál es su velocidad (km/h)?", "solucion": "50" },
+                    { "texto": "Un atleta corre 400 metros en 50 segundos. ¿Cuál es su velocidad (m/s)?", "solucion": "8" }
+                ]
+            },
+            "calculosFuerza": {
+                "nombre": "Cálculos de Fuerza",
+                "juego": "basicOperations",
+                "preguntas": [
+                    { "texto": "F = m*a. Si m=10kg y a=5m/s², ¿cuál es la Fuerza (N)?", "solucion": "50" },
+                    { "texto": "F = m*a. Si F=100N y m=20kg, ¿cuál es la aceleración (m/s²)?", "solucion": "5" }
+                ]
+            },
+            "formulasFisica": {
+                "nombre": "Resolver Fórmulas de Física",
+                "juego": "equationSolver",
+                "preguntas": [
+                    { "texto": "v = d/t. Si v=10 y t=5, ¿cuál es el valor de d?", "solucion": "50" },
+                    { "texto": "P = F/A. Si P=20 y A=2, ¿cuál es el valor de F?", "solucion": "40" }
+                ]
+            },
+            "conversionTemperaturas": {
+                "nombre": "Resolver: Temperaturas",
+                "juego": "equationSolver",
+                "preguntas": [
+                    { "texto": "C = (F - 32) * 5/9. Si F=50, ¿cuál es el valor de C?", "solucion": "10" },
+                    { "texto": "K = C + 273. Si C=100, ¿cuál es el valor de K?", "solucion": "373" }
+                ]
+            },
+            "secuenciasCientificas": {
+                "nombre": "Secuencias Científicas",
+                "juego": "numberSequence",
+                "preguntas": [
+                    { "texto": "1, 4, 9, 16, 25, ?", "solucion": "36" },
+                    { "texto": "2, 4, 8, 16, ?", "solucion": "32" }
+                ]
+            },
+            "secuenciasMedidas": {
+                "nombre": "Secuencias de Medidas",
+                "juego": "numberSequence",
+                "preguntas": [
+                    { "texto": "10, 100, 1000, ?", "solucion": "10000" },
+                    { "texto": "0.01, 0.1, 1, 10, ?", "solucion": "100" }
+                ]
+            },
+            "estadosMateriaDrag": {
+                "nombre": "Arrastrar: Estados de la Materia",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "Agua", "droppable": "Líquido" },
+                    { "draggable": "Vapor", "droppable": "Gaseoso" },
+                    { "draggable": "Hielo", "droppable": "Sólido" }
+                ]
+            },
+            "reinosNaturalezaDrag": {
+                "nombre": "Arrastrar: Reinos de la Naturaleza",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "León", "droppable": "Animalia" },
+                    { "draggable": "Champiñón", "droppable": "Fungi" },
+                    { "draggable": "Helecho", "droppable": "Plantae" }
+                ]
+            },
+            "ordenPlanetasDrag": {
+                "nombre": "Arrastrar: Orden de Planetas",
+                "juego": "dragAndDropMatch",
+                "preguntas": [
+                    { "draggable": "Mercurio", "droppable": "1º desde el Sol" },
+                    { "draggable": "Venus", "droppable": "2º desde el Sol" },
+                    { "draggable": "Tierra", "droppable": "3º desde el Sol" },
+                    { "draggable": "Marte", "droppable": "4º desde el Sol" }
+                ]
+            },
+            "ruletaCiencia": {
+                "nombre": "Ruleta de Ciencia",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "El proceso por el cual las plantas hacen su comida se llama...", "solucion": { "valor": "Fotosíntesis", "explicacion": "Correcto, es la fotosíntesis." }, "opcionesFalsas": [{ "valor": "Respiración", "explicacion": "Incorrecto, la respiración es otro proceso." }] },
+                    { "texto": "El centro del sistema solar es...", "solucion": { "valor": "El Sol", "explicacion": "Correcto, todos los planetas giran alrededor del Sol." }, "opcionesFalsas": [{ "valor": "La Tierra", "explicacion": "Incorrecto, la Tierra es un planeta del sistema." }] }
+                ]
+            },
+            "ruletaCuerpoHumano": {
+                "nombre": "Ruleta del Cuerpo Humano",
+                "juego": "rouletteVF",
+                "preguntas": [
+                    { "texto": "El órgano responsable de pensar es el...", "solucion": { "valor": "Cerebro", "explicacion": "Correcto, el cerebro controla nuestros pensamientos." }, "opcionesFalsas": [{ "valor": "Corazón", "explicacion": "Incorrecto, el corazón bombea sangre." }] },
+                    { "texto": "Usamos los ___ para respirar.", "solucion": { "valor": "Pulmones", "explicacion": "Correcto, los pulmones toman oxígeno del aire." }, "opcionesFalsas": [{ "valor": "Riñones", "explicacion": "Incorrecto, los riñones filtran la sangre." }] }
+                ]
+            },
+            "memoriaCiencia": {
+                "nombre": "Memoria de Ciencia",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "Agua", "es": "H₂O" },
+                    { "en": "Sol", "es": "Estrella" },
+                    { "en": "Corazón", "es": "Órgano" }
+                ]
+            },
+            "memoriaHerramientas": {
+                "nombre": "Memoria: Herramientas de Lab",
+                "juego": "memoryMatch",
+                "preguntas": [
+                    { "en": "Microscopio", "es": "Ver objetos pequeños" },
+                    { "en": "Telescopio", "es": "Ver objetos lejanos" },
+                    { "en": "Termómetro", "es": "Medir temperatura" }
+                ]
+            },
+            "ahorcadoCiencia": {
+                "nombre": "Ahorcado de Ciencia",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "CELULA", "pista": "Unidad básica de todos los seres vivos." },
+                    { "palabra": "PLANETA", "pista": "Cuerpo celeste que gira alrededor de una estrella." }
+                ]
+            },
+            "ahorcadoCientificos": {
+                "nombre": "Ahorcado de Científicos",
+                "juego": "hangman",
+                "preguntas": [
+                    { "palabra": "NEWTON", "pista": "Famoso por la ley de la gravitación universal." },
+                    { "palabra": "EINSTEIN", "pista": "Desarrolló la teoría de la relatividad." }
+                ]
+            },
+            "completarCiencia": {
+                "nombre": "Completar Conceptos de Ciencia",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "La fuerza que nos mantiene en el suelo es la ____.", "solucion": "GRAVEDAD" },
+                    { "texto": "El planeta en el que vivimos es la ____.", "solucion": "TIERRA" }
+                ]
+            },
+            "completarBiologia": {
+                "nombre": "Completar Conceptos de Biología",
+                "juego": "fillTheWord",
+                "preguntas": [
+                    { "texto": "El ADN contiene la información ____.", "solucion": "GENETICA" },
+                    { "texto": "Los animales que solo comen plantas son ____.", "solucion": "HERBIVOROS" }
+                ]
+            }
+        }
+    }
+}
